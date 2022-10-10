@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("Name: JaiAnand\nUniversity Roll No.: 2016792\Semester: 5\nSection/Class Roll no.:B-51\n ");
+    printf("Name\nUniversity Roll No.: \Semester: 5\nSection/Class Roll no.:roll\n ");
     double a, b, c, discriminant, root1, root2, realPart, imagPart;
     printf("\n\nEnter coefficients a, b and c: ");
     scanf("%lf %lf %lf", &a, &b, &c);

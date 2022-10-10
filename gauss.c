@@ -7,7 +7,7 @@ int main()
 {
     float a[SIZE][SIZE], x[SIZE], ratio;
     int i, j, k, n;
-    printf("Jai Anand\nRoll NO 51\n University Roll No. 2016792\n");
+    printf("Name\nRoll  \n University Roll No. \n");
     printf("Enter number of unknowns: ");
     scanf("%d", &n);
     for (i = 1; i <= n; i++)
@@ -50,5 +50,6 @@ int main()
     for (i = 1; i <= n; i++)
     {
         printf("x[%d] = %0.3f\n", i, x[i]);
-    }return (0);
+    }
+    return (0);
 }

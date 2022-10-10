@@ -11,7 +11,7 @@ float f2(float x)
 }
 int main()
 {
-    printf("Name : Jai Anand \nSection : CS-B\nRoll No : 51\n");
+    printf("Name : Name \nSection : \nRoll No \n");
     printf("|*NEWTON RAPSON METHOD*|\n");
     printf("------------------------\n");
     int i;

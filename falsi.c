@@ -7,7 +7,7 @@ float f(float x)
 }
 int main()
 {
-    printf("Name : Jai Anand \nSection : CS-B\nRoll No : 51\n");
+    printf("Name : Name \nSection : \nRoll No \n");
     printf("|*******************************REGULAR FALSI method********************************************|\n");
     printf("-------------------------------------------------------------------------------------------------\n");
     int i;
